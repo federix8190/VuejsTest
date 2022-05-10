@@ -38,6 +38,8 @@ var app4 = new Vue({
 	}
 })
 
+var queee = 123;
+
 var app5 = new Vue({
 	el: '#app-5',
 	data: {
@@ -78,3 +80,5 @@ var app7 = new Vue({
         ]
     }
 });
+
+alert('Probando.... : ', queee)
