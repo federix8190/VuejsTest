@@ -5,6 +5,8 @@ var app = new Vue({
 	}
 });
 
+var test = 'Esto es solo para probar xDxD';
+
 var app2 = new Vue({
 	el: '#app-2',
 	data: {
@@ -49,6 +51,8 @@ var app5 = new Vue({
 		}
 	}
 });
+
+console.log('holaaaa');
 
 var app6 = new Vue({
 	el: '#app-6',
